@@ -1,0 +1,22 @@
+# Foundry
+out/
+cache/
+broadcast/
+lib/
+
+# Environment variables
+.env
+
+# System
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+
+# IDEs
+.vscode/
+.idea/
+*.swp
